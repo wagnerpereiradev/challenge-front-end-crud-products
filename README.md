@@ -198,9 +198,6 @@ interface ProductState {
 ### Dados Padrão (Seeding)
 - **Produtos**: 100+ produtos variados
 - **Categorias**: 10 categorias (Eletrônicos, Roupas, Livros, Casa e Jardim, etc.)
-- **Imagens**: URLs válidas do Unsplash e Picsum
-- **Preços**: Faixa realista de R$ 10,00 a R$ 2.500,00
-- **Datas**: Timestamps realistas de criação e atualização
 
 ## Padrões de Código & Commits
 
@@ -240,16 +237,14 @@ refactor: extrair lógica de validação para hook customizado
 - [x] Filtros avançados (nome, múltiplas categorias, faixa de preço)
 - [x] Tema dark/light com persistência
 - [x] Animações fluidas com Framer Motion
-- [x] Paginação avançada com controles inteligentes
-- [x] Responsividade completa (mobile-first)
+- [x] Responsividade completa
 - [x] Acessibilidade WCAG 2.1 AA
 - [x] Logo clicável para reset de filtros
-- [x] Acordeão expansível/colapsável
 - [x] Imagens quadradas (aspect-ratio 1:1)
 - [x] Preview de imagem em tempo real
 - [x] Modal de confirmação para exclusão
 - [x] Indicadores de filtros ativos
-- [x] Loading states e skeleton screens
+- [x] Loading states
 
 ### 🚀 Possíveis Melhorias Futuras
 - [ ] Drag & drop para upload de imagens
