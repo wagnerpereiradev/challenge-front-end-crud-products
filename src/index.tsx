@@ -4,6 +4,9 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+// Importar script de seed para disponibilizar funções no console
+import './scripts/seed';
+
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
