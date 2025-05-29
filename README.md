@@ -2,6 +2,12 @@
 
 Uma aplicação completa de CRUD (Create, Read, Update, Delete) para gerenciamento de produtos, desenvolvida em React com TypeScript, utilizando dados mockados e persistência no localStorage. Interface moderna com tema dark/light, filtros avançados, paginação inteligente e seleção múltipla de categorias.
 
+## 🚀 Demo Online
+
+**[🌐 Acesse a aplicação em produção](https://challenge-front-end-crud-products.vercel.app/)**
+
+A aplicação está hospedada no Vercel e pode ser acessada diretamente pelo link acima. Todas as funcionalidades estão disponíveis para teste imediato!
+
 ## Stack e Pré-requisitos
 
 ### Stack Tecnológica
